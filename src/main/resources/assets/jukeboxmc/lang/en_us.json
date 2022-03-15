@@ -1,0 +1,8 @@
+{
+  "jukeboxmc.screen.title": "JukeboxMC Settings",
+  "jukeboxmc.ingamePrefix.description": "Ingame Prefix",
+  "jukeboxmc.jukeboxPrefix.description": "Jukebox Prefix",
+  "jukeboxmc.key.description": "Key (via Discord Command)",
+  "jukeboxmc.jukeboxURL.description": "Jukebox URL",
+  "jukeboxmc.screen.reset": "RESET"
+}

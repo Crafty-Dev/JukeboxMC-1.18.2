@@ -1,0 +1,13 @@
+{
+  "required": true,
+  "package": "de.crafty.jukeboxmc.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "refmap": "jukeboxmc.refmap.json",
+  "mixins": [
+  ],
+  "client": [
+    "MixinMinecraft",
+    "gui.screens.MixinTitleScreen"
+  ],
+  "minVersion": "0.8"
+}
